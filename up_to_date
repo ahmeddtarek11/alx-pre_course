@@ -1,0 +1,2 @@
+git checkout -b branch name 
+git pull origin master
